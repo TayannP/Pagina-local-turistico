@@ -11,5 +11,4 @@ Exemplo de site de Local Turistico .
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 HTML
-
 CSS
