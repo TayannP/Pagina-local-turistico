@@ -4,11 +4,13 @@
 
 
 
-💻 Projeto
-Exemplo de site de Local Turistico .
+ 💻 Projeto
+ ----------------------------------------
+Exemplo de site de Local Turistico.
 
 ✨ Tecnologias
+ -----------------------------------------
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+* HTML
+* CSS
 
-HTML
-CSS
