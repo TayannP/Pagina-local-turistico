@@ -5,7 +5,7 @@
 
 
 💻 Projeto
-Exemplo de site de receita.
+Exemplo de site de Local Turistico .
 
 ✨ Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
